@@ -1,0 +1,7 @@
+id_aksi,nama_aksi,biaya,jam_kerja,tingkat_kesulitan,gunakan_manual
+ACT01,Audit pemasok garam,240,120,2.0,0
+ACT02,Uji kemurnian enzim batch,300,80,2.0,0
+ACT03,Kontrak harga jangka panjang,90,40,1.0,1
+ACT04,Tambah safety stock,180,60,1.5,0
+ACT05,Kualifikasi pemasok baru,220,150,2.5,0
+ACT06,Optimasi rute logistik,160,90,1.8,0

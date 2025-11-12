@@ -1,0 +1,5 @@
+supplier_id,capacity,unit_cost,emission_score
+SG1,180,4.4,0.8
+SG2,160,4.1,0.9
+SG3,140,4.2,0.85
+SE1,100,5.0,0.7

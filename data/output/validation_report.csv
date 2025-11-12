@@ -1,0 +1,23 @@
+file,level,message
+hor_events.csv,OK,unique event_id ✅
+hor_agents.csv,OK,unique agent_id ✅
+hor_actions.csv,OK,unique action_id ✅
+respondents.csv,OK,unique respondent_id ✅
+criteria.csv,OK,unique criterion_id ✅
+subcriteria.csv,OK,unique sub_id ✅
+suppliers.csv,OK,unique supplier_id ✅
+hor_events.csv,OK,severity in [1..10]
+hor_agents.csv,ERROR,occurrence out of [1..10]: 6 rows
+hor_actions.csv,OK,difficulty in [1..5]
+hor_actions.csv,OK,cost >= 0
+hor_actions.csv,OK,manhours >= 0
+respondents.csv,OK,weight > 0
+dematel_edges.csv,OK,score in [0..4]
+hor_R.csv,ERROR,values must be 0..3
+hor_effectiveness.csv,OK,values in 0..1
+hor_R.csv,OK,IDs aligned with events×agents
+hor_effectiveness.csv,ERROR,"row IDs not in agents: ['ACT01', 'ACT02', 'ACT03', 'ACT04', 'ACT05']"
+hor_effectiveness.csv,ERROR,"column IDs not in actions: ['AENZP', 'AENZQ', 'ASALTP', 'ASALTQ', 'ALOG']"
+subcriteria.csv,OK,criterion_id OK
+dematel_edges.csv,OK,IDs OK
+supplier_ratings.csv,OK,FK OK

@@ -1,0 +1,6 @@
+id_kejadian,nama_kejadian,tingkat_keparahan
+E1,Kontaminasi mikroba,5
+E2,Kandungan garam tidak stabil,4
+E3,Enzim tidak aktif,4
+E4,Keterlambatan pengiriman,3
+E5,Fluktuasi harga,2

@@ -1,0 +1,11 @@
+file,level,message
+hor_R.csv,OK,reindexed to events×agents (missing filled 0)
+hor_effectiveness.csv,OK,reindexed to agents×actions (missing filled 0)
+hor_events.csv,OK,fixed & saved (4 rows × 3 cols)
+hor_agents.csv,OK,fixed & saved (6 rows × 3 cols)
+respondents.csv,OK,fixed & saved (3 rows × 3 cols)
+criteria.csv,OK,fixed & saved (3 rows × 2 cols)
+subcriteria.csv,OK,fixed & saved (5 rows × 3 cols)
+dematel_edges.csv,OK,fixed & saved (6 rows × 5 cols)
+suppliers.csv,OK,fixed & saved (4 rows × 3 cols)
+supplier_ratings.csv,OK,fixed & saved (40 rows × 7 cols)

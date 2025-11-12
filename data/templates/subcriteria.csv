@@ -1,0 +1,9 @@
+id_subkriteria,nama_subkriteria,id_kriteria
+S11,Kemurnian,K1
+S12,Konsistensi Rasa,K1
+S21,Lead Time,K2
+S22,Tepat Waktu,K2
+S31,Harga,K3
+S32,Stabilitas Harga,K3
+S41,Emisi,K4
+S42,Kedekatan ke Pabrik,K4
